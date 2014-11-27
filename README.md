@@ -1,4 +1,6 @@
 
+->editing by http clone option
+
 ->edit by svn 
 
  editing by lakshmi-sudha-reddy
